@@ -8,13 +8,13 @@
 Summary:	POE::Component::Client::FTP - Implements an FTP client POE Component
 Summary(pl.UTF-8):	POE::Component::Client::FTP - implementacja klienta FTP jako komponentu POE
 Name:		perl-POE-Component-Client-FTP
-Version:	0.20
+Version:	0.22
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/POE/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	9f99d3cdbc1cdb2d149c1b68665616b1
+# Source0-md5:	7729fd9c950cc722d7a43b1f3ef93540
 URL:		http://search.cpan.org/dist/POE-Component-Client-FTP/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
